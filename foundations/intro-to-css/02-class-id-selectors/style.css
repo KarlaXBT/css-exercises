@@ -1,0 +1,22 @@
+* {
+  font-size: 22px;
+}
+
+.pink-bg {
+  background-color: pink;
+}
+
+.big-txt {
+  font-size: 44px;
+}
+
+#blue {
+  color: blue;
+  font-size: 55px;
+}
+
+#green-bg {
+  background-color: green;
+  font-weight: bold;
+  font-size: 33px;
+}
